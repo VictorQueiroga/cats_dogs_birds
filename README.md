@@ -144,10 +144,9 @@ Epoch 30: saving model to training_1/cp.ckpt
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
-Exemplo de adição de imagem:
-![Evolução da accuracy e da loss ao longo do treinamento](assets/evidências.png)
+
+![Evolução da accuracy e da loss ao longo do treinamento](assets/evidencias.png)
 
 ## Roboflow
 
